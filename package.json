@@ -2,7 +2,7 @@
   "name": "ts-sdk-test",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "module": "dis/index.m.js",
   "unpkg": "dist/index.umd.js",
   "types": "dist/index.d.ts",
